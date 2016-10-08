@@ -2,4 +2,4 @@ version: 0.0
 os: Linux 
 files: 
  - source: /app
- destination: var/wwww/html/
+ destination: /var/wwww/html/
