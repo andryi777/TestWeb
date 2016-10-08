@@ -1,5 +1,11 @@
-version: 0.0
-os: Linux
+version: 0.0 
+os: Linux 
 files: 
  - source: /app
+<<<<<<< HEAD
    destination: /var/www/html/
+=======
+   destination: /var/www/html/ 
+timeout: 300 
+runas: root 
+>>>>>>> 74f5574e3f01bc07c58b381ae8c2f8cb3514b8a0
