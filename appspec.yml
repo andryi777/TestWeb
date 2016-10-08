@@ -1,0 +1,7 @@
+version: 0.0
+as: Linux
+files: 
+ - source: /app
+   destination: /var/www/html/
+timeout: 300
+runas: root
