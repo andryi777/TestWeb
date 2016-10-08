@@ -3,5 +3,3 @@ os: Linux
 files: 
  - source: /app
    destination: /var/www/html/
-timeout: 300
-runas: root
